@@ -7,6 +7,6 @@ This is a library of components for Altium Designer parts
 * import the ARPGPCBLib.IntLib file to your component library's list
 
 ## Rules of updating repository
-* before you push any changes to this library make sure you have tested the footprints and componen schematics
+* before you push any changes to this library make sure you have tested the footprints and component schematics
 * In the comments of your commit explain in details what changes has been applied to the library
 * make sure your commit only includes *.PcbLib and *.SchLib and *.LibPkg files if there are more files in your folder add the format to .gitignore file of this repository
